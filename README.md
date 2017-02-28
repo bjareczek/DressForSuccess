@@ -17,12 +17,6 @@ TDD was used in GetDressedTest to build out the functionality in GetDressed whil
 
 Run the GoingToWork console app.
 
-The design document specifies the temperature delimited from other values with a space like this:
-
-Input: HOT 8, 6, 4, 2, 1, 7
-
-Due to time constraints, the app currently expects a comma seperated list of values like this (temperature also separated by comma):
-
 Input: HOT, 8, 6, 4, 2, 1, 7
 
 ## TODO
